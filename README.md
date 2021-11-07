@@ -4,7 +4,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Guilherme Costa</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermecostadossantos&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Javascript student. Working as IT as support since 2013. Fluent in English and Spanish, Brazilian native. 
+- 🔥 Javascript student. Working as IT as support since 2013. Brazilian native, fluent in English and Spanish, . 
 
 - 🔭 I’m currently working at [NSF International](https://www.nsf.org/) as Support Technician 2.
 
