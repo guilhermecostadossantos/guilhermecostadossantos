@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/73067772/140630229-03faf56f-7e69-49f0-8687-75397a3b9f3f.png"/>
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/73067772/140630356-478beb7d-44f1-40a2-b32b-a6d04e38e20a.png"/>
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Guilherme Costa</h1>
