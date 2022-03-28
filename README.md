@@ -6,7 +6,7 @@
 
 - 🔥 Javascript student. Working as IT as support since 2013. Brazilian native, fluent in English and Spanish, . 
 
-- 🔭 I’m currently working at [NSF International](https://www.nsf.org/) as Support Technician 2.
+- 🔭 I’m currently working at [AWWCOR](https://awwcor.com/) as Senior Support Analyst.
 
 - 💬 Ask me about **JavaScript, HTML, CSS, MySQL, Node.JS**
 
