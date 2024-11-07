@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, MySQL, Node.JS**
 
-- ⚡ Fun fact ***:martial_arts_uniform: BJJ Blue Belt 😜***
+- ⚡ Fun fact ***:martial_arts_uniform: BJJ Purple Belt 😜***
 
 <br><br>
 
